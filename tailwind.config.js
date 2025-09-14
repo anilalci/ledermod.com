@@ -35,7 +35,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        roboto: ['Roboto', 'sans-serif'],
+        opensans: ['Open Sans', 'sans-serif'],
       },
     },
     container: {
